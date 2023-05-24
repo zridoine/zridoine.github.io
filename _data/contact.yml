@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fab fa-twitter"
+- type: velog
+  icon: "fa-brands fa-vimeo"
+  url: "https://velog.io/@jw01987"
 
 - type: email
   icon: "fas fa-envelope"

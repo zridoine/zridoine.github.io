@@ -280,16 +280,6 @@ i {
       margin-top: 0;
       margin-bottom: 0;
     }
-
-    /* [scroll-focus] added by `smooth-scroll.js` */
-    &:target:not([scroll-focus]),
-    &[scroll-focus='true'] > p {
-      background-color: var(--footnote-target-bg);
-      width: -moz-fit-content;
-      width: -webkit-fit-content;
-      width: fit-content;
-      transition: background-color 1.5s ease-in-out;
-    }
   }
 }
 
@@ -300,12 +290,6 @@ i {
 
     border-bottom-style: none !important;
     transition: background-color 1.5s ease-in-out;
-  }
-
-  /* [scroll-focus] added by `smooth-scroll.js` */
-  @at-root sup:target:not([scroll-focus]),
-    sup[scroll-focus='true'] > a#{&} {
-    background-color: var(--footnote-target-bg);
   }
 }
 
@@ -713,7 +697,12 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: var(--sidebar-bg);
+  // background: var(--sidebar-bg);
+  // background-color: #d6ecfe;
+  background: url('https://images.unsplash.com/photo-1572630978398-b9dba3fe1acb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80');
+  //background-size: 100% 100%;
+  background-position: center;
+  background-size: cover;
 
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
