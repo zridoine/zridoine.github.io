@@ -9,7 +9,8 @@ tags: [javascript, algorithm] # TAG names should always be lowercase
 
 ## [Babbling](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
 
-Mukju is taking care of his 6-month-old nephew who can only make combinations of the four pronunciations "aya", "ye", "woo", and "ma". Given a string array called "babbling", complete the solution function to return the number of words that Mukju's nephew can pronounce.
+Mukju is taking care of his 6-month-old nephew who can only make combinations of the four pronunciations "aya", "ye", "woo", and "ma".  
+Given a string array called "babbling", complete the solution function to return the number of words that Mukju's nephew can pronounce.
 
 ---
 
@@ -18,7 +19,7 @@ Mukju is taking care of his 6-month-old nephew who can only make combinations of
 1 ≤ Length of babbling[i] ≤ 15
 
 Each string in babbling contains "aya", "ye", "woo", and "ma" only once.
-In other words, among all possible substrings of each string, "aya", "ye", "woo", and "ma" appear only once.
+In other words, among all possible substrings of each string, "aya", "ye", "woo", and "ma" appear only once.  
 The strings consist of lowercase alphabets only.
 
 ---
@@ -42,7 +43,8 @@ The strings consist of lowercase alphabets only.
 ---
 
 **_Note_**  
-It is considered that only the pronunciations formed by combining the four given pronunciations are possible. For example, "woowo" cannot be pronounced because it contains "woo" but lacks "wo".
+It is considered that only the pronunciations formed by combining the four given pronunciations are possible.  
+For example, "woowo" cannot be pronounced because it contains "woo" but lacks "wo".
 
 ---
 
