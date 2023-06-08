@@ -33,13 +33,13 @@ You are given an integer array, numbers, and an integer n as parameters. Write a
 Example #1
 
 - For the given example, let's go through the process of adding numbers according to the problem description:
-  |i |numbers[i]| sum|
-  |:--:|:--:|:--:|
-  | | | 0|
-  |0| 34| 34|
-  |1| 5 |39|
-  |2 |71 |110|
-  |3 |29| 139|
+- |  i  | numbers[i] | sum |
+  | :-: | :--------: | :-: |
+  |     |            |  0  |
+  |  0  |     34     | 34  |
+  |  1  |     5      | 39  |
+  |  2  |     71     | 110 |
+  |  3  |     29     | 139 |
 
   After adding 29, the sum becomes 139, which is greater than the given n value of 123. Therefore, we return 139.
 
