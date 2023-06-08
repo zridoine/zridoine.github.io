@@ -97,9 +97,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: JW01987/JW01987.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOJm91vg
-    category: Comments
-    category_id: DIC_kwDOJm91vs4CW0pp
+    repo_id: R_kgDOJqYrPQ
+    category: comments
+    category_id: DIC_kwDOJqYrPc4CXDNi
     mapping: "pathname" # optional, default to 'pathname'
     input_position: "top" # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
