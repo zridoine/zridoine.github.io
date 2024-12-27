@@ -4,39 +4,42 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=72bdfd&height=300&section=header&text=I'm%20Jean&fontSize=90&animation=fadeIn&desc=Someone%20with%20a%20bit%20of%20a%20front%20end%20to%20node.js&descAlignY=65)
+## Hello!
 
-<div align="center">
-<h3>🙋 Hello </h3><p style="margin-bottom:3em;font-size:1em">I'm currently studying Node.js.🧑‍💻<br>I started learning on my own,<br>but now I'm attending a bootcamp to enhance my collaboration skills.✨</p>
+My name is **Zakarye Ridoine**, and here’s a little about me:
+- I’m a second-year student pursuing an associate degree in Systems and Networks in Morocco.
+- I’m deeply passionate about technology, especially the fields of networking and cybersecurity.
+- My primary focus is offensive security, where I enjoy learning about ethical hacking and penetration testing.
+- When I’m not studying, I spend my time exploring cybersecurity tools, solving CTF challenges, and improving my skills.
+- Through this blog, I aim to share simple and practical articles about networking and cybersecurity to help others learn and grow.
 
-<div style="margin-top:3em">
-    <h2>❄️ Tech Stack ❄️</h2>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <div style="margin-bottom:2em"></div>
+Feel free to follow along and join me on this journey!
 
-</div>
+## My Licenses & Certifications
 
-<div style="margin-top:3em">
-    <h2>📚 Loading...</h2>
-      <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+* [Ethical Hacker](https://www.credly.com/badges/eed9ea31-54a8-48ba-9b2f-f4946c85dafd/public_url){:target="_blank"}
+* [JavaScript Essentials](https://www.credly.com/badges/6e8774d0-7510-4506-92e6-fb2452ed7a9e/public_url){:target="_blank"}
+* [Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/783abe16-1ca8-47ff-9019-bafa412a7237/public_url){:target="_blank"}
+* [Networking Devices and Initial Configuration](https://www.credly.com/badges/b80bd4ff-9a38-4fe8-be58-d87e012dd738/public_url){:target="_blank"}
+* [Networking Basics](https://www.credly.com/badges/47951782-7e50-4345-a89d-03c0bfb20d5c/public_url){:target="_blank"}
+* [Basics of Computer Networking](https://verify.mygreatlearning.com/verify/EVIXKXDF){:target="_blank"}
+* [Operating Systems Basics](https://www.credly.com/badges/d6ba6187-a7cb-4c6e-8cea-e6b43399a65a/public_url){:target="_blank"}
+* [Computer Hardware Basics](https://www.credly.com/badges/a7e371d3-31dc-49d3-97fd-92476200161c/public_url){:target="_blank"}
 
-<div style="margin-top:3em">
-    <h2>✍️ Dev Blog</h2>
-<a href="https://jw01987.github.io/" target="_blank"><img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://velog.io/@jw01987" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+## My Profiles
 
-</div>
-<div style="margin:3em 0 3em 0">
-    <h2>📬 Contact</h2>
-  
-  <a href="mailto:etnpfj@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-</div>
+Check my profile on the CTF platform:
+
+* [My TryHackMe's Profile](https://tryhackme.com/p/secusavvy){:target="_blank"}
+
+## My Socials
+
+You can find me on:
+* [LinkedIn](https://www.linkedin.com/in/zakarye-ridoine/){:target="_blank"}
+* [Twitter](https://x.com/secusavvy){:target="_blank"}
+* [GitHub](https://github.com/secusavvy){:target="_blank"}
+
+
+
+
+
