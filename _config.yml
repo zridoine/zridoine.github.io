@@ -13,12 +13,12 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Seoul
+timezone: Africa/Casablanca
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Secusavvy's Blog # the main title
+title: Secusavvy # the main title
 
 tagline: Just a tech # it will display as the sub-title
 
