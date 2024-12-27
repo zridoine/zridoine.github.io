@@ -26,19 +26,19 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://JW01987.github.io"
+url: "https://secusavvy.github.io"
 
 github:
-  username: JW01987 # change to your github username
+  username: secusavvy # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: secusavvy # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jean
-  email: etnpfj@gmail.com # change to your email address
+  name: Secusavvy
+  email: secusavvy@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -47,13 +47,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: 7vUBdlTKPr2g0bHf5_dYG_3M8HaV6R2QK-HqTRX38as # fill in to your verification string
+google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-GEXDC1TJ3B # fill in your Google Analytics ID
+  id: # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/mac.png
+avatar: https://avatars.githubusercontent.com/u/168565323?v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -96,10 +96,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: JW01987/JW01987.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOJqYrPQ
+    repo: secusavvy/secusavvy.github.io # <gh-username>/<repo>
+    repo_id:
     category: comments
-    category_id: DIC_kwDOJqYrPc4CXDNi
+    category_id:
     mapping: "pathname" # optional, default to 'pathname'
     input_position: "top" # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
