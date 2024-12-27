@@ -86,7 +86,7 @@ avatar: https://avatars.githubusercontent.com/u/168565323?v=4
 toc: true
 
 comments:
-  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -96,12 +96,12 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: secusavvy/secusavvy.github.io # <gh-username>/<repo>
+    repo: # <gh-username>/<repo>
     repo_id:
-    category: comments
+    category:
     category_id:
-    mapping: "pathname" # optional, default to 'pathname'
-    input_position: "top" # optional, default to 'bottom'
+    mapping: # optional, default to 'pathname'
+    input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: "1" # optional, default to the value of `1`
 
