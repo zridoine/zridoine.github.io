@@ -1,8 +1,8 @@
 ---
 title: LAN, WAN, MAN
 date: 2024-12-30 15:47:58 +01:00
-categories: [Networking, Networking Basics]
-tags: [Networking, Networking Basics] # TAG names should always be lowercase
+categories: [Networking,Networking Basics]
+tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
 ![Mindmap Cover](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/2/Types%20of%20Networks.png)  
