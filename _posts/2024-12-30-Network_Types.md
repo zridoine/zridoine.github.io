@@ -5,7 +5,7 @@ categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
-![](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/2/Types%20of%20Networks.png)  
+![](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/2/Types%20of%20Network.png)  
 
 Alright, let’s talk about the big three network types—LAN, WAN, and MAN. These are like the MVPs of networking, each playing a specific role in how our devices talk to each other. Whether you’re setting up your Wi-Fi at home or connecting a city-wide system, it’s all about picking the right type. Let’s break it down!
 
