@@ -1,8 +1,8 @@
 ---
 title: What Are Networks? Definition and Importance
 date: 2024-12-29 15:47:58 +01:00
-categories: [Networking, Networking Basics]
-tags: [Networking, Networking Basics] # TAG names should always be lowercase
+categories: [Networking,Networking Basics]
+tags: [Networking,Networking Basics] # TAG names should always be lowercase
 ---
 
 ![](https://raw.githubusercontent.com/secusavvy/secusavvy.github.io/refs/heads/master/assets/Posts_img/Networking/1/Mindmap_Cover.png)
