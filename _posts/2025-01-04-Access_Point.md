@@ -1,5 +1,5 @@
 ---
-title: Access Point
+title: Access Points
 date: 2025-01-04 15:47:58 +01:00
 categories: [Networking,Networking Basics]
 tags: [Networking,Networking Basics] # TAG names should always be lowercase
