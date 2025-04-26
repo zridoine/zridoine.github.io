@@ -26,23 +26,23 @@ description: >- # used by seo meta and the atom feed
   Discover a variety of articles on networking and cybersecurity, where I share practical insights, tips, and lessons learned. Whether you're curious about protecting your digital world or diving deeper into networking concepts, this blog offers approachable content for enthusiasts and learners alike.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://secusavvy.github.io"
+url: "https://moorekohi.github.io"
 
 github:
-  username: secusavvy # change to your github username
+  username: moorekohi # change to your github username
 
 twitter:
-  username: secusavvy # change to your twitter username
+  username: moorekohi # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Secusavvy
+  name: moorekohi
   email: secusavvy@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/secusavvy # change to your twitter homepage
-    - https://github.com/secusavvy # change to your github homepage
+    - https://twitter.com/moorekohi # change to your twitter homepage
+    - https://github.com/moorekohi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
