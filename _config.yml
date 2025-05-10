@@ -20,34 +20,34 @@ timezone: Africa/Casablanca
 
 title: Zakarye R. # the main title
 
-tagline: Networks & Systems Student | Security Focused # it will display as the sub-title
+tagline: IT Student # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Discover a variety of articles on networking and cybersecurity, where I share practical insights, tips, and lessons learned. Whether you're curious about protecting your digital world or diving deeper into networking concepts, this blog offers approachable content for enthusiasts and learners alike.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://moorekohi.github.io"
+url: "https://zared1.github.io"
 
 github:
-  username: moorekohi # change to your github username
+  username: zared1 # change to your github username
 
 twitter:
-  username: moorekohi # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: moorekohi
-  email: secusavvy@gmail.com # change to your email address
+  name: zared1
+  email: ridoinezakarye@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/moorekohi # change to your twitter homepage
-    - https://github.com/moorekohi # change to your github homepage
+  #  - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/zared1 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: 6LXEsb-vj4jRvqFg2vGwhBW645K881WscrkOoWoe4Hk # fill in to your verification string
+google_site_verification:  # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
