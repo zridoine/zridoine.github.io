@@ -30,14 +30,13 @@ Feel free to follow along and join me on this journey!
 
 Check my profile on the CTF platform:
 
-* [My TryHackMe's Profile](https://tryhackme.com/p/secusavvy){:target="_blank"}
+* [My TryHackMe's Profile](https://tryhackme.com/p/zared1){:target="_blank"}
 
 ## My Socials
 
 You can find me on:
 * [LinkedIn](https://www.linkedin.com/in/zakarye-ridoine/){:target="_blank"}
-* [Twitter](https://x.com/secusavvy){:target="_blank"}
-* [GitHub](https://github.com/secusavvy){:target="_blank"}
+* [GitHub](https://github.com/zared1){:target="_blank"}
 
 
 
