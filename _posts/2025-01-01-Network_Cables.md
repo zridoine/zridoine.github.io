@@ -73,7 +73,3 @@ So, which cable should you use? It depends on your needs:
 - **For Home Networks**: Ethernet cables (Cat5e or Cat6) are your best bet.  
 - **For High Performance**: Fiber optics, especially for businesses or gaming.  
 - **For Legacy Systems**: Coaxial cables if you’re dealing with older tech.  
-
-## Wrapping It Up  
-
-Network cables might not be flashy, but they’re essential for keeping the internet running smoothly. 
