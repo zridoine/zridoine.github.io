@@ -18,7 +18,7 @@ timezone: Africa/Casablanca
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zakarye R. # the main title
+title: My Blog # the main title
 
 tagline: IT Student # it will display as the sub-title
 
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   Discover a variety of articles on networking and cybersecurity, where I share practical insights, tips, and lessons learned. Whether you're curious about protecting your digital world or diving deeper into networking concepts, this blog offers approachable content for enthusiasts and learners alike.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://zared1.github.io"
+url: "https://zridoine.github.io"
 
 github:
-  username: zared1 # change to your github username
+  username: zridoine # change to your github username
 
 twitter:
   username: # change to your twitter username
@@ -37,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: zared1
+  name: Zakarye Ridoine
   email: ridoinezakarye@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
   #  - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/zared1 # change to your github homepage
+    - https://github.com/zridoine # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
