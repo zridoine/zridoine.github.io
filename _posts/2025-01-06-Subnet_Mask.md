@@ -65,7 +65,3 @@ By isolating sensitive areas of a network, subnet masks can improve security. Fo
 
 ### 3. **Scalability**  
 As networks grow, subnet masks allow for logical expansion without overwhelming the system.  
-
-## Wrapping It Up  
-
-Subnet masks might seem intimidating, but they’re the unsung heroes of networking. They keep your data flowing to the right places while optimizing network performance.  
