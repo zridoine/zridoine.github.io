@@ -60,7 +60,3 @@ Why switch? IPv6 isn’t just about quantity; it’s faster and more secure, too
 ## Why Do IP Addresses Matter?  
 
 Without IP addresses, the internet wouldn’t work. It’s how devices recognize each other, share data, and keep everything running smoothly. Whether you’re streaming Netflix or gaming online, your IP is quietly working in the background.  
-
-## Wrapping It Up  
-
-IP addresses might just look like a string of numbers, but they’re the backbone of how networks operate. They make sure your memes, emails, and cat videos reach the right place.
