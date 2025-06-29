@@ -55,6 +55,3 @@ MANs are the perfect middle ground—bigger than LANs but not as massive as WANs
 - **Universities**: Connecting multiple buildings on a single campus.  
 - **City-Wide Wi-Fi**: Public Wi-Fi systems that cover large urban areas.  
 
-## Wrapping It Up  
-
-LANs, WANs, and MANs might sound similar, but each has its own vibe and purpose. LANs are all about close-knit connections, WANs go the distance, and MANs bridge the gap. Together, they form the foundation of modern networking.
