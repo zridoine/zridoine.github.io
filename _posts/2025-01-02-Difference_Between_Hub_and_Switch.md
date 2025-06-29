@@ -60,6 +60,3 @@ Imagine you’re at a party:
 - **Pick a Hub**: If you’re on a tight budget or just experimenting in a small lab.  
 - **Pick a Switch**: If you need speed, security, and scalability for a modern network.  
 
-## Wrapping It Up  
-
-While hubs and switches might look alike, they serve very different purposes. If you’re serious about your network’s performance, switches are the way to go. But hey, if you’re just tinkering or need something super basic, hubs still have their place.  
