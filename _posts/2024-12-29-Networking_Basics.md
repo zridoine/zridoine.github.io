@@ -68,7 +68,3 @@ Let’s bring it home with some everyday examples:
 - **On the Go:** Mobile data connects your phone to the internet through a cellular network.
 - **In Gaming:** Multiplayer games use networks to connect players around the world.
 
-## Wrapping It Up
-
-Networks are everywhere, and they’re the unsung heroes of our digital lives. From streaming your favorite shows to working from home, everything relies on networks to function. Understanding them isn’t just for techies—it’s for anyone who wants to know how the magic happens.
-
